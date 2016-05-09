@@ -129,13 +129,7 @@
 			</div>
 			<div class="cont-modal">
 				<h1>Editar este Registro</h1>
-				<form id="form-registro">
-					<input type="text" id="nombre" name="nombre" placeholder="Nombre">
-					<input type="text" id="apellido" name="apellido" placeholder="Apellido">
-					<input type="text" id="correo" name="correo" placeholder="correo">
-
-					<button id="enviar" class="enviar">enviar</button>
-				</form>
+				
 			</div>
 		</div> <!-- modal de editar -->
 
